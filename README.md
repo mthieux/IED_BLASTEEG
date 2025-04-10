@@ -5,7 +5,7 @@ This study is part of a larger project which investigate the influence of interi
 ## Scripts 
 The scripts have been writed with Python (3.11.7) and R (4.4.1). 
 - behav_stat_analysis.Rmd - runs statistical analyses for BLAST data
-- eeg_stat_analysis.Rmd - runs statistical analyses for EEG data
+- eeg_stat_analysis.R - runs statistical analyses for EEG data
 - ERP_analysis.ipynb - runs EEG preprocessing and epoching
 
 ## Informations
