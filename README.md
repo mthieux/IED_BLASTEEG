@@ -1,5 +1,3 @@
-# IED_BLAST-EEG
-
 These scripts were used for the analyses of "Interictal epileptiform discharges contribute to momentary lapses of attention in children with epilepsy - Thieux et al."
 
 This study is part of a larger project which investigate the influence of interictal epileptiform discharges (IED) on attention using the BLAST attention test (Petton et al., 2019). This study focuses on the influence of IED on BLAST-scores (reaction time, errors %, Stability and Intensity) and on the P300 component during BLAST in children, using scalp-EEG recording. 
